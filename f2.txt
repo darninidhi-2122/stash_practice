@@ -1,1 +1,2 @@
 initial commit in file f2
+new changes made in file f2
